@@ -47,7 +47,7 @@ train_transforms = A.Compose([
 ```
 
 **Before vs After Augmentation:**
-![Class Distribution](training_curves.png)
+![Class Distribution](dataset.png)
 
 ## Model Architecture: DCACNet
 ### Architecture Flow
