@@ -1,3 +1,17 @@
+<!-- Project cover -->
+<p align="center">
+  <img src="./project-cover.svg" alt="DCACNet Skin Cancer Detection cover" width="100%" />
+</p>
+
+> **PyTorch / computer vision** — A seven-class skin-lesion classifier built around the DCACNet attention-based CNN and HAM10000 data.
+
+## Project snapshot
+
+- Includes training artifacts, a notebook, metrics plots, and a saved model.
+- Includes a root-level <a href="./project-cover.svg">project-cover.svg</a>, a scalable project cover graphic for this repository.
+
+---
+
 # DCACNet: Skin Cancer Detection System
 
 A deep learning system for skin cancer classification using the HAM10000 dataset with a novel Deep Condensed Attention Convolution Network (DCACNet) architecture.
